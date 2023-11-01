@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BalancoTrimestral/BalancoTrimestral.iml" filepath="$PROJECT_DIR$/BalancoTrimestral/BalancoTrimestral.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Condicional__Repeticao/Condicional__Repeticao.iml" filepath="$PROJECT_DIR$/Condicional__Repeticao/Condicional__Repeticao.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/.idea/starting_java.iml" filepath="$PROJECT_DIR$/src/.idea/starting_java.iml" />
     </modules>
   </component>
